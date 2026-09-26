@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///Users/dothinh/Documents/Programing/Projects/e-commerce/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///Users/dothinh/Documents/Programing/Projects/e-commerce/app/page.tsx"],"sourcesContent":["import { bgBlack } from \"next/dist/lib/picocolors\";\n\nexport default function Home() {\n  return (\n       <div className={'bg-amber-50 text-amber-200'}>test</div>\n  );\n}\n"],"names":["Home","className"],"mappings":";;;;;;AAEe,SAASA;IACtB,qBACK,8OAAC;QAAIC,WAAW;kBAA8B;;;;;;AAErD"}}]
+}
